@@ -5,6 +5,6 @@ class CuDen:public NongSan
 public:
 	CuDen();
 	void Nhap();
-	void KiemTra();
+	bool KiemTra(ThoiGian b);
 };
 

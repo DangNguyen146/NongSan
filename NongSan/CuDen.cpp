@@ -13,7 +13,8 @@ void CuDen::Nhap()
 	cout << "Cu den" << endl;
 	NongSan::Nhap();
 }
-void CuDen::KiemTra()
+bool CuDen::KiemTra(ThoiGian b)
 {
+	int giaihan = 0;
 
-}
+}S

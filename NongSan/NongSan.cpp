@@ -3,8 +3,12 @@
 using namespace std;
 void NongSan::Nhap()
 {
-	cout << "Nhap khoi luong: ";
-	cin >> this->KhoiLuong;
+	do
+	{
+		cout << "Nhap khoi luong(kg): ";
+		cin >> this->KhoiLuong;
+	} while (this->KhoiLuong > 100);
+
 	cout << "Nhan nuoc dung:";
 	cin >> this->NuocDung;
 	cout << "Nhap ngay nhap vao kho";

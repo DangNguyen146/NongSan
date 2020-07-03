@@ -13,7 +13,7 @@ void KhoaiLang::Nhap()
 	cout << "Khoai lang" << endl;
 	NongSan::Nhap();
 }
-void KhoaiLang::KiemTra()
+bool KhoaiLang::KiemTra()
 {
 
 }

@@ -1,11 +1,10 @@
 #pragma once
 class ThoiGian
 {
-private:
+public:
 	int Ngay;
 	int Thang;
 	int Nam;
-public:
 	void Nhap();
 };
 

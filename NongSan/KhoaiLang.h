@@ -5,6 +5,6 @@ class KhoaiLang:public NongSan
 public:
 	KhoaiLang();
 	void Nhap();
-	void KiemTra();
+	bool KiemTra();
 };
 

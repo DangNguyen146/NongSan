@@ -1,10 +1,2 @@
-﻿  CaRot.cpp
-F:\OOP\NongSan\NongSan\CaRot.cpp(8,24): warning C4305: '=': truncation from 'double' to 'float'
-F:\OOP\NongSan\NongSan\CaRot.cpp(9,24): warning C4305: '=': truncation from 'double' to 'float'
-  CuDen.cpp
-F:\OOP\NongSan\NongSan\CuDen.cpp(8,24): warning C4305: '=': truncation from 'double' to 'float'
-F:\OOP\NongSan\NongSan\CuDen.cpp(9,24): warning C4305: '=': truncation from 'double' to 'float'
-  KhoaiLang.cpp
-F:\OOP\NongSan\NongSan\KhoaiLang.cpp(8,24): warning C4305: '=': truncation from 'double' to 'float'
-  Generating Code...
+﻿  Source.cpp
   NongSan.vcxproj -> F:\OOP\NongSan\Debug\NongSan.exe

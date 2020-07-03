@@ -13,6 +13,7 @@ protected:
 	float Nuoc;
 public:
 	virtual void Nhap();
-	virtual void KiemTra() = 0;
+	virtual bool KiemTra(ThoiGian a) = 0;
+	int GetHanSuDung() { return this->Han; }
 };
 
